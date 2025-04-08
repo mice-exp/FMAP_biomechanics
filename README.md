@@ -1,6 +1,6 @@
 # FMAP_biomechanics
 
-# Biomechanical Analysis – FMA-P Protocol
+## Biomechanical Analysis – FMA-P Protocol
 
 This repository provides Python code to extract and calculate various biomechanical parameters from functional tasks performed during the **Functional Mobility Assessment in Parkinson’s** protocol.
 
@@ -19,7 +19,7 @@ This repository provides Python code to extract and calculate various biomechani
 - **Key outputs**: Quantity and duration of FLEs based on a velocity threshold.
 ---
 
-### 2. `Stand_to_sit_FMAP.ipynb`
+### 2. `Stand_to_sit.ipynb`
 - **Purpose**: Analyze the **stand-to-sit** transition in terms of segment displacement and smoothness.
 - **Key outputs**: Peak trunk acceleration, pelvis and trunk flexion, peak trunk inclination in Anteroposterior (AP) and mediolateral (ML) directions.
 ---
