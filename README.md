@@ -4,6 +4,8 @@
 
 This repository provides Python code to extract and calculate various biomechanical parameters from functional tasks performed during the **Functional Mobility Assessment in Parkinson’s** protocol.
 
+DOI: 10.5281/zenodo.15175531
+
 > 📝 **Note**: The **marker nomenclature** used throughout these analyses is documented in `marker_setup.pdf`.
 
 ## 📁 Data Formats
